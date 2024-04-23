@@ -1,0 +1,21 @@
+student_id,year_group,score_music,score_maths,score_science
+student_1,Year 1,24,14,18
+student_1,Year 2,28,11,24
+student_1,Year 3,27,33,24
+student_1,Year 4,8,63,40
+student_2,Year 1,43,27,18
+student_2,Year 2,34,22,16
+student_2,Year 3,17,13,51
+student_2,Year 4,23,20,33
+student_3,Year 1,5,10,65
+student_3,Year 2,11,90,63
+student_3,Year 3,10,12,12
+student_3,Year 4,22,34,100
+student_4,Year 1,55,8,51
+student_4,Year 2,34,40,26
+student_4,Year 3,43,26,46
+student_4,Year 4,27,36,43
+student_5,Year 1,13,43,73
+student_5,Year 2,27,23,49
+student_5,Year 3,19,68,52
+student_5,Year 4,12,51,47
