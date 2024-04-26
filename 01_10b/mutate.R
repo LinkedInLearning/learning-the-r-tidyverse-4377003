@@ -9,4 +9,4 @@ library(tidyverse)
 # Advanced ----------------------------------------------------------------
 
 msleep %>% 
-  mutate(across())
+  mutate(across(contains("sleep"), ~ . / 24))
