@@ -1,0 +1,26 @@
+{
+    "id": "C032FBEA",
+    "path": "~/Documents/GitHub/learning-the-r-tidyverse-4377003/03_02b/compare-read-functions.R",
+    "project_path": "compare-read-functions.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1714231094418.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "30,5",
+        "scrollLine": "14"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1714231075,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1714231321358,
+    "read_only": false,
+    "read_only_alternatives": []
+}
