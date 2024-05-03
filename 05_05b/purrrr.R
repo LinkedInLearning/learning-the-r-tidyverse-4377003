@@ -18,11 +18,6 @@ read_and_clean <- function(data_file){
 }
 
 
-vec_data_files %>% 
-  map_df(~read_and_clean(.x))
-
-
-
 
 
 plot_continent <- function(continent_name){
