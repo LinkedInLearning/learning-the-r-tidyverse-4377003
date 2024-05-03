@@ -1,4 +1,0 @@
-library("tidyverse")
-
-msleep %>% 
-  select(name, contains("sleep"))
