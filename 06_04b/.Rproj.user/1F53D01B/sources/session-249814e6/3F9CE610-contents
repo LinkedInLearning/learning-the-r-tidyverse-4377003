@@ -1,0 +1,13 @@
+library("tidyverse")
+
+msleep %>% 
+  select(name, contains("sleep")) %>% 
+  mutate(across(contains("sleep"), ~ . / 24))
+
+
+msleep %>% 
+  select(name, contains("sleep")) %>% 
+  mutate(across(contains("sleep"), list("percent" = ~ . / 24)))
+
+
+msleep
