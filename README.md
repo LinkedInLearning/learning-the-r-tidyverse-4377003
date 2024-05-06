@@ -22,9 +22,10 @@ To resolve this issue:
 
 ## Installing
 1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
+	- R
+    - RStudio
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+3. During this course you'll be shown how to install the tidyverse packages.
 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
