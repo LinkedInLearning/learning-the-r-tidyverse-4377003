@@ -7,7 +7,7 @@ survey_data <- read_spss("data/General Social Survey, 1991.SAV")
 
 
 
-# Get question text -----------------------------------------------------
+# Get question text ------------------------------------------------------
 
 survey_data %>% 
   select(where(is.labelled)) %>% 
