@@ -3,3 +3,8 @@ node_modules
 .tmp
 npm-debug.log
 .Rproj.user
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
+.quarto
