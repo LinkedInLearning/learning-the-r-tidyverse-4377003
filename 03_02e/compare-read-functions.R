@@ -5,6 +5,13 @@ data_baser <- read.csv("data/sample-data.csv")
 
 data_readr <- read_csv("data/sample-data.csv")
 
+
+data_baser %>% 
+  filter(is.na(sex))
+
+data_readr %>% 
+  filter(is.na(sex))
+
 # Comparing speed ---------------------------------------------------------
 
 library("tictoc")
