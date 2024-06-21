@@ -1,0 +1,101 @@
+cust_id,location,devices
+1,"Santa Ana, Colombia",Games Console;Tablet
+2,"Desenzano del Garda, Italy",VR Headset;Smart Phone;Tablet;Games Console
+3,"Novo Horizonte, Brazil",VR Headset;Tablet;Games Console
+4,"Letterkenny, Ireland",e-reader;Smart Phone;VR Headset
+5,"Jerez, Spain",VR Headset;Tablet;Smart Phone
+6,"Codlea, Romania",e-reader
+7,"Olaszliszka, Hungary",Smart Phone
+8,"Martellago, Italy",e-reader;Smart Phone
+9,"Monok, Hungary",VR Headset;e-reader
+10,"Sao Goncalo do Amarante, Brazil",Games Console;Tablet
+11,"Paulinia, Brazil",Games Console;Tablet;VR Headset
+12,"Sicuani, Peru",VR Headset;e-reader
+13,"Pacos de Brandao, Portugal",Games Console;e-reader;VR Headset;Tablet
+14,"La Seyne-sur-Mer, France",Smart Phone;Games Console;e-reader
+15,"Itea, Greece",VR Headset
+16,"Santa Maria, Nicaragua",Tablet;VR Headset
+17,"Arapiraca, Brazil",VR Headset;Smart Phone
+18,"Zundert, Netherlands",Smart Phone
+19,"Genk, Belgium",Tablet;Games Console
+20,"Molinella, Italy",Games Console;VR Headset;Tablet;Smart Phone
+21,"Voeren, Belgium",Games Console;Smart Phone;e-reader;VR Headset
+22,"Lucija, Slovenia",Games Console
+23,"Talcahuano, Chile",e-reader;Smart Phone;VR Headset;Games Console
+24,"Guaratingueta, Brazil",Games Console;e-reader;Smart Phone
+25,"Pirates Well, Bahamas",e-reader;Tablet;VR Headset
+26,"Veszprem, Hungary",Smart Phone;Tablet;Games Console;e-reader
+27,"Kumaka, Guyana",VR Headset;e-reader
+28,"Soisy-sous-Montmorency, France",Tablet;Games Console;VR Headset
+29,"Catanzaro, Italy",Games Console;Tablet;Smart Phone;VR Headset
+30,"Benque Viejo, Belize",Smart Phone
+31,"Stuttgart, Germany",Tablet;VR Headset;e-reader
+32,"Balastya, Hungary",e-reader;Games Console;VR Headset;Tablet
+33,"Pucol, Spain",Games Console;Tablet;e-reader
+34,"Nabala, Estonia",e-reader;Games Console
+35,"Roberval, Canada",Smart Phone
+36,"Daimiel, Spain",VR Headset;Tablet;Games Console;Smart Phone
+37,"General Higinio Morinigo, Paraguay",Games Console;e-reader;Smart Phone
+38,"Valur-Nesio, Faroe Islands",e-reader;VR Headset;Smart Phone;Tablet
+39,"Augsburg, Germany",Tablet
+40,"Lifford, Ireland",Tablet;e-reader;Smart Phone
+41,"Tacuaras, Paraguay",Games Console;VR Headset
+42,"Whitchurch-Stouffville, Canada",Smart Phone;VR Headset;Tablet
+43,"La Paloma, Uruguay",Tablet;e-reader;Games Console;VR Headset
+44,"San Francisco Menendez, El Salvador",Tablet;Smart Phone;e-reader
+45,"Santa Cruz, Jamaica",VR Headset;Games Console;Smart Phone;e-reader
+46,"Eleousa, Greece",Smart Phone;Games Console
+47,"Zielonka, Poland",e-reader
+48,"Zitose, North Macedonia",VR Headset;e-reader
+49,"Wohlen, Switzerland",Smart Phone;VR Headset;Tablet
+50,"Sibenik, Croatia",Tablet;e-reader;VR Headset;Smart Phone
+51,"Pag, Croatia",Tablet;Games Console
+52,"Villeta, Paraguay",Smart Phone;VR Headset;Games Console;Tablet
+53,"San Cataldo, Italy",Games Console;Smart Phone;e-reader;VR Headset
+54,"Nuevo San Juan, Panama",e-reader;Smart Phone
+55,"Ouro Fino, Brazil",Games Console;VR Headset;Tablet
+56,"Iglesias, Italy",Smart Phone
+57,"Roeser, Luxembourg",Tablet
+58,"Konstanz, Germany",Smart Phone
+59,"Rediu, Romania",Smart Phone;Games Console;Tablet;e-reader
+60,"Choachi, Colombia",Tablet;Games Console
+61,"Koksijde, Belgium",e-reader;Games Console
+62,"Sindal, Denmark",Smart Phone;e-reader;Games Console
+63,"Tecuala, Mexico",Smart Phone;e-reader;VR Headset
+64,"Uberaba, Brazil",VR Headset
+65,"Gravata, Brazil",e-reader;Smart Phone
+66,"Langnau, Switzerland",VR Headset;Games Console
+67,"Sao Mamede de Infesta, Portugal",e-reader
+68,"Kaluderica, Serbia",Games Console;VR Headset
+69,"Palaia Fokaia, Greece",e-reader
+70,"Jezera, Croatia",Games Console
+71,"Gaupne, Norway",Smart Phone
+72,"Provatas, Greece",Games Console
+73,"L'Alfas del Pi, Spain",Smart Phone;Tablet;e-reader
+74,"Aracati, Brazil",Smart Phone;VR Headset
+75,"Paraguari, Paraguay",Games Console;Tablet;Smart Phone;e-reader
+76,"Gorizia, Italy",Smart Phone;e-reader;Tablet
+77,"Kirkevoll-Brekkeasen, Norway",e-reader;Games Console
+78,"Mancora, Peru",Games Console;e-reader
+79,"Salitral, Costa Rica",Games Console;Smart Phone;Tablet;VR Headset
+80,"Aniche, France",Smart Phone;Games Console
+81,"Opera, Italy",Games Console;Smart Phone
+82,"Portaria, Greece",Games Console;VR Headset;e-reader;Tablet
+83,"Freienbach, Switzerland",Smart Phone;Games Console
+84,"Doesburg, Netherlands",e-reader;Smart Phone
+85,"Drensteinfurt, Germany",Smart Phone
+86,"Bollate, Italy",e-reader;Games Console
+87,"Komenda, Slovenia",Smart Phone;Tablet;VR Headset;e-reader
+88,"Ganserndorf, Austria",e-reader;Games Console
+89,"Clavier, Belgium",Tablet;e-reader;VR Headset
+90,"Barrancabermeja, Colombia",Smart Phone
+91,"Almoloya del Rio, Mexico",VR Headset;Smart Phone
+92,"Miguelturra, Spain",Tablet
+93,"Glabach, Luxembourg",Games Console;Tablet
+94,"Raudeberg, Norway",Smart Phone;Tablet;Games Console;e-reader
+95,"San Francisco de los Romo, Mexico",e-reader;Tablet;Games Console;Smart Phone
+96,"Porvoo, Finland",VR Headset;Smart Phone
+97,"Margarita, Panama",Tablet
+98,"Roros, Norway",Games Console;e-reader;Smart Phone;Tablet
+99,"Gravelbourg, Canada",e-reader;Games Console;VR Headset;Smart Phone
+100,"Hennigsdorf, Germany",Tablet;VR Headset;Games Console
