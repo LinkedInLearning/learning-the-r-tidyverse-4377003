@@ -9,7 +9,7 @@ survey_data %>%
   select(MARITAL) %>% 
   mutate(MARITAL = as_factor(MARITAL))
 
-# Get question text ------------------------------------------------------
+# Get question text -----------------------------------------------------
 
 survey_data %>% 
   select(where(is.labelled)) %>% 
