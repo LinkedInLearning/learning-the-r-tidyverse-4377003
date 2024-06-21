@@ -5,7 +5,7 @@ un_data_long <- read_csv("data/un_data_long.csv")
 un_data_wide <- read_csv("data/un_data_wide.csv")
 
 
-# Chart: wide -------------------------------------------------------------
+# Chart: wide ------------------------------------------------------------
 
 un_data_wide %>% 
   ggplot() +
