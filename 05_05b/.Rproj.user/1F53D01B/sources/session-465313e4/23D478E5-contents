@@ -1,0 +1,39 @@
+library("tidyverse")
+library("janitor")
+
+
+
+# Realistic use of purrr -------------------------------------------------------
+
+
+read_and_clean <- function(data_file){
+  
+  data_year <- str_extract(data_file, "[0-9]{4}")
+  
+  data_file %>% 
+    read_csv() %>% 
+    mutate(year = data_year) %>% 
+    clean_names() 
+  
+}
+
+
+
+
+plot_continent <- function(continent_name){
+  
+  data_gapminder %>% 
+    filter(continent == continent_name) %>% 
+    group_by(continent, year) %>% 
+    summarise(mean_life_exp = mean(life_exp)) %>% 
+    ggplot() +
+    aes(x = year,
+        y = mean_life_exp,
+        group = continent) +
+    geom_line() +
+    labs(title = str_glue("Life expectancy changes in {continent_name} since 1952"))
+  
+}
+
+
+
